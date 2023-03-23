@@ -1,0 +1,157 @@
+@media (max-width:576px) {
+    /* Phần navbar */
+    .ten{
+     display: none;
+    }
+   
+    .container-1{
+        display: block;
+
+    }
+    .container-1 a{
+        display: block;
+        border: none;
+        margin: 30px;
+        text-align: left;
+    }
+
+
+    /* phần thông tin cá nhân */
+    .thongtin{
+        display: block;
+        width: 100%;
+    }
+
+    #target p{
+        margin-bottom: 0px;
+    }
+
+
+
+    /* thông tin nghề nghiệp */
+    .thongtin-1 {
+       display: block;
+       width: 100%;
+       padding-left: 20px;
+       padding-right: 20px;
+
+       }
+    
+    
+    .container-duc{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    section > .container-duc{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    /* chứng chỉ giải thưởng */
+    #certificate{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        width: 100%;
+    }
+
+    .contai3 {
+        display: block;
+    }
+    
+
+
+    .hinh{
+        width: 100%;
+    }
+
+    .contai3-item1 .hinh{
+        width: 100%;
+     }
+
+     .border-l {
+        padding-left: 0px;
+        padding-right: 0px;
+        border-left: none;
+        padding-top: 30px;
+        border-top: 1px solid orangered;
+        border-bottom: 1px solid orangered;
+     }
+
+     .contai3-item1 {
+        padding-top: 0px;
+     }
+
+     .item1-left {
+        display: block;   
+        margin-bottom: 20px;
+
+     }
+
+     .contai3-item1 {
+        display: block;
+        
+     }
+
+     .item1-left img{
+        margin-bottom: 10px;
+     }
+
+     .contai3-item1 img{
+        margin-bottom: 10px;
+     }
+
+    
+     /* phần dự án */
+    .duan{
+        display: block;
+        margin: 20px;
+    }
+
+    .cv-canhan {
+        margin-top: 20px;
+    }
+
+    .kiemchung, .kiemchung-1{
+         display: block;
+    }
+
+    .tomau{
+        width: 20%;
+    }
+
+    .kiemchung-1 p:first-child{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+
+
+     .chungchi{
+        /* margin: 20px; */
+     }
+
+
+     .border-l-10{
+        border-left: none;
+     }
+     
+     .border-bt-10-2{
+     
+        border-bottom: 10px solid blue;
+     }
+     
+     .h-40-100{
+        margin-top: 10px !important;
+     }
+     
+     .marg-20{
+        margin-top: 30px !important;
+     }
+
+
+
+
+ }

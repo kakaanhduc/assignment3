@@ -1,0 +1,102 @@
+@media (min-width: 576px) and (max-width: 991px) {
+
+   /* phần navbar */
+       .ten{
+        display: none;
+       }
+       #nav-bar a:nth-child(2){
+         margin-right: 10%;
+         border-left: none;
+        
+       }
+        
+       #target {
+         padding-left: 20px;
+         padding-right: 20px;
+         line-height: 1.5;
+     }
+
+     #personal-info{
+      padding-left: 20px;
+  
+    }
+
+     section > .container-duc {
+       padding-top: 40px;
+  }
+
+
+  /* thông tin cá nhân */
+  .thongtin {
+   width: 100%;
+  }
+  
+   /*thông tin nghề nghiệp  */
+  .thongtin-1 {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+
+  }
+
+  .item1-left {
+   display: block;
+   /* padding-right: 100px; */
+   margin-bottom: 20px;
+   padding-right: 20px;
+}
+
+.item1-left img{
+   margin-bottom: 10px;
+}
+
+.hinh {
+   width:100%;
+   
+}
+
+.contai3-item1 {
+   display: block;
+   
+}
+
+.contai3-item1 .hinh{
+   width: 50%;
+}
+
+.contai3-item1 img{
+   margin-bottom: 10px;
+}
+
+.border-l {
+   padding-left: 20px;
+   padding-right: 0px;
+
+    }
+
+   .kiemchung-1{
+      display: block;
+      
+  }
+
+/* phần cv */
+
+.border-l-10{
+   border-left: none;
+}
+
+.border-bt-10-2{
+
+   border-bottom: 10px solid blue;
+}
+
+.h-40-100{
+   margin-top: 3% !important;
+}
+
+.marg-20{
+   margin-top: 20px !important;
+}
+
+   }
+
+
